@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "reservation-billets": {
+      "hosting": {
+        "app": [
+          "reservation-billets"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "reservation-billets"
+  }
+}
